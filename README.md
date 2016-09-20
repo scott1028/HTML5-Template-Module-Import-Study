@@ -19,7 +19,7 @@ w3IncludeHTML();
 </html>
 ```
 
-## HTML5 Import Template
+## HTML5 Import Template(Firefox no support)
 
 ```
 <head>
